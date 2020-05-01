@@ -1,0 +1,52 @@
+body{
+  font-size: 16px;
+  color:pink;
+  background-color: orange;
+  font-family: Oxygen;
+}
+#header-nav{
+  background-color: grey;
+  border-radius: 30;
+  border:20px;
+  height: 150px;
+}
+
+
+#logo-image{
+  background: url('bird.jfif') no-repeat;
+  /* <embed type="hamburger"/svg+xml" src="hamburger.svg" /> */
+
+  width: 150px;
+  height:110px;
+  margin: auto;
+}
+.navbar-brand{
+  color:pink;
+  text-transform: uppercase;
+  font-size: .7em;
+  margin-top: 15px;
+}
+.text{
+  color: black;
+  margin-left: 70px;
+  margin-right: 80px;
+  margin-top: 80px;
+  background-color: white;
+  margin-bottom: 80px;
+  padding-bottom: 60px;
+  padding-left: 30px;
+  padding-right: 30px;
+
+}
+#navbarToggleExternalContent{
+  float:right;
+}
+.text-white h4{
+    float:right;
+}
+.food{
+  float: left;
+}
+.bs-example{
+    	margin: 50px;
+    }
